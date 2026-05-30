@@ -1,0 +1,37 @@
+{
+    "users": [
+        {
+            "user_id": 1001,
+            "username": "alice_w",
+            "email": "alice@example.com",
+            "signup_date": "2025-01-15",
+            "premium_member": true,
+            "preferences": {
+                "category": "Electronics",
+                "marketing_opt_in": true
+            }
+        },
+        {
+            "user_id": 1002,
+            "username": "bob_smith",
+            "email": "bob@example.com",
+            "signup_date": "2025-02-20",
+            "premium_member": false,
+            "preferences": {
+                "category": "Books",
+                "marketing_opt_in": false
+            }
+        },
+        {
+            "user_id": 1003,
+            "username": "charlie_m",
+            "email": "charlie@example.com",
+            "signup_date": "2025-03-05",
+            "premium_member": true,
+            "preferences": {
+                "category": "Home & Kitchen",
+                "marketing_opt_in": true
+            }
+        }
+    ]
+}

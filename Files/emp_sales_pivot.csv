@@ -1,0 +1,16 @@
+emp_id,emp_name,department,month,sales_amount
+1,Ravi,Electronics,Jan,20000
+1,Ravi,Electronics,Feb,25000
+1,Ravi,Electronics,Mar,18000
+2,Anita,Clothing,Jan,15000
+2,Anita,Clothing,Feb,22000
+2,Anita,Clothing,Mar,27000
+3,Kiran,Electronics,Jan,30000
+3,Kiran,Electronics,Feb,28000
+3,Kiran,Electronics,Mar,35000
+4,Sneha,Clothing,Jan,12000
+4,Sneha,Clothing,Feb,14000
+4,Sneha,Clothing,Mar,16000
+5,Rahul,Furniture,Jan,18000
+5,Rahul,Furniture,Feb,20000
+5,Rahul,Furniture,Mar,22000

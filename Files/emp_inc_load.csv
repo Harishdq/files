@@ -1,0 +1,6 @@
+EmpId,FirstName,LastName,DeptID,Salary,HireDate,mgr
+111,Raja,Rao,30,70000,23/9/2019,104
+112,Sita,Rani,10,71000,24/10/2019,103
+113,Geetha,Varma,20,68000,23/10/2019,102
+102,Jane,Smith,10,78000,25/12/2020,103
+105,David,Wilson,20,72000,2/2/2020,102
